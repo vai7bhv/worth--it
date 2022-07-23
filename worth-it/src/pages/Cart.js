@@ -9,7 +9,7 @@ import MetaData from '../component/MetaData'
 
 const Container = styled.div`
   min-height: 90vh;
-  /* background-color: #e7e8e9; */
+  /* background-color: #e7e8e9;    */
 
   @media (max-width: 600px) {
     justify-content: flex-start;
