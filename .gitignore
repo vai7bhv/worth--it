@@ -1,0 +1,31 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/worth-it/node_modules
+/worth-it/.pnp
+/worth-it/.pnp.js
+/worth-it/.component/dummyNav.js
+
+# testing
+/worth-it/coverage
+
+# production
+/worth-it/build
+
+# misc
+/worth-it/.DS_Store
+/worth-it/.env.local
+/worth-it/.env.development.local
+/worth-it/.env.test.local
+/worth-it/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+/apis/node_modules
+
+
+/apis/.env
+
